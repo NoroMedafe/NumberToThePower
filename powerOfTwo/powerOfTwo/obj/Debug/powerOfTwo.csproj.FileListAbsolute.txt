@@ -1,0 +1,7 @@
+C:\Users\danya\source\repos\powerOfTwo\powerOfTwo\bin\Debug\powerOfTwo.exe.config
+C:\Users\danya\source\repos\powerOfTwo\powerOfTwo\bin\Debug\powerOfTwo.exe
+C:\Users\danya\source\repos\powerOfTwo\powerOfTwo\bin\Debug\powerOfTwo.pdb
+C:\Users\danya\source\repos\powerOfTwo\powerOfTwo\obj\Debug\powerOfTwo.csproj.AssemblyReference.cache
+C:\Users\danya\source\repos\powerOfTwo\powerOfTwo\obj\Debug\powerOfTwo.csproj.CoreCompileInputs.cache
+C:\Users\danya\source\repos\powerOfTwo\powerOfTwo\obj\Debug\powerOfTwo.exe
+C:\Users\danya\source\repos\powerOfTwo\powerOfTwo\obj\Debug\powerOfTwo.pdb
