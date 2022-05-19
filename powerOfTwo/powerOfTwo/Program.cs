@@ -15,18 +15,19 @@ namespace powerOfTwo
             int minLimitRandomNumber = 2;
             int maxLimitRandomNumber = 150;
             int number = randomNumber.Next(minLimitRandomNumber, maxLimitRandomNumber);
-            int currentDegree = 1;
-            double secondDegree = 0.5;
-            double numberToThePower = 2;
+            int currentNumberDegree = 1;
+            int secondDegree = 2;
+            int numberToPower = 2;
 
-            for (int i = 0; number > numberToThePower; currentDegree++)
+            while (number > numberToPower)
             {
-                numberToThePower = numberToThePower / secondDegree;
+                numberToPower = numberToPower * secondDegree;
+                currentNumberDegree++;
             }
 
             Console.WriteLine(number);
-            Console.WriteLine(currentDegree);
-            Console.WriteLine(numberToThePower);
+            Console.WriteLine(currentNumberDegree);
+            Console.WriteLine(numberToPower);
 
             Console.ReadKey();
         }
